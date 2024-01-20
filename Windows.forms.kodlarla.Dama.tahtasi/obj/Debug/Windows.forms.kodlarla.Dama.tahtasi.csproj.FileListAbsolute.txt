@@ -1,0 +1,10 @@
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\bin\Debug\Windows.forms.kodlarla.Dama.tahtasi.exe.config
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\bin\Debug\Windows.forms.kodlarla.Dama.tahtasi.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\bin\Debug\Windows.forms.kodlarla.Dama.tahtasi.pdb
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.Properties.Resources.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.pdb
+C:\Users\samet\Desktop\ConsoleAppDersleri\Windows.forms.kodlarla.Dama.tahtasi\obj\Debug\Windows.forms.kodlarla.Dama.tahtasi.Dama.resources
